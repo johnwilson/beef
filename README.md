@@ -6,6 +6,7 @@ done
 
 
 # Next title here
-```
-code block
+```python
+def index():
+  print("Hello world")
 ```
